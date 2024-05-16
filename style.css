@@ -24,7 +24,6 @@
     background-color: rgba(128, 128, 128, 0.533);
     font-size: 50px;
     font-weight: 550;
-    font-family:cursive;
 }
 h2{
     font-weight: 600;
@@ -82,5 +81,4 @@ h1, .h2{
 .message{
     font-size: 28px;
     color: rgba(255, 255, 255, 0.793);
-    font-family:cursive;
 }
